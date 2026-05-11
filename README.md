@@ -11,7 +11,7 @@ This project simulates a purple team detection workflow in an isolated Windows l
 
 ## Lab Environment
 
-- **Host OS:** Windows 11
+- **Host OS:** Windows 11 Pro
 - **VM:** Windows 10 Pro (VMware Workstation Pro 17)
 - **Network:** Host-Only (isolated during testing, temporarily switched to NAT for tool downloads)
 - **Attack simulation:** Atomic Red Team with SwiftOnSecurity Sysmon config
